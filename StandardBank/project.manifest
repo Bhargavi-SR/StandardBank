@@ -1,0 +1,28 @@
+{
+    "dependencies": [
+        {
+            "name": "SBCommon",
+            "useResources": true,
+            "isHidden": false,
+            "excludeFromBuild": false
+        },
+        {
+            "name": "SuspendList",
+            "useResources": true,
+            "isHidden": false,
+            "excludeFromBuild": false
+        },
+        {
+            "name": "ManageScheme",
+            "useResources": true,
+            "isHidden": false,
+            "excludeFromBuild": false
+        },
+        {
+            "name": "Customer360",
+            "useResources": true,
+            "isHidden": false,
+            "excludeFromBuild": false
+        }
+    ]
+}

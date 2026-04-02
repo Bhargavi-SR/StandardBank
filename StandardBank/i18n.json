@@ -1,0 +1,19 @@
+{
+    "keys": [
+        "label.hello"
+    ],
+    "locales": {
+        "pt_PT": {
+            "i18nStrings": {
+                "label.hello": "hello"
+            },
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        }
+    }
+}

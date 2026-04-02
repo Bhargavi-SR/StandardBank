@@ -1,0 +1,109 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "icon_cal.png",
+    "__id": "frmCustomer_calCustInfo",
+    "__input": "calCustInfo",
+    "_data_": null,
+    "_date_": [
+        9,
+        9,
+        2015
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        16,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd5331db0df34d57acc863f0debc5e8b",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "advview": "default",
+    "calendaricon": "icon_cal.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "datecomponents": [
+        9,
+        9,
+        2015
+    ],
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "datesGroup": [],
+    "datesState": 0,
+    "day": 9,
+    "daytextalignmentincell": 5,
+    "displayedMonths": [
+        4,
+        2026
+    ],
+    "entereddate": "09/09/2015",
+    "format": "dd/MM/yyyy",
+    "formatteddate": "09/09/2015",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "calCustInfo",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "be4a9c2abf444903bcf9c78ecf67c70a",
+    "luadate": [
+        9,
+        9,
+        2015
+    ],
+    "minutes": 0,
+    "month": 9,
+    "monthsinrow": 3,
+    "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
+    "noofmonths": 1,
+    "paddinginpixel": true,
+    "pagedate": "/2015",
+    "parent": "flxRegistrationDate",
+    "pf": "frmCustomer",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "seconds": 0,
+    "selectdate": "//2015",
+    "startDay": 0,
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
+    "year": 2015,
+    "zindex": 1
+}

@@ -1,0 +1,67 @@
+{
+    "HEAD": "we727728396a4025bf9a446b86ef89c8",
+    "w371492ff81c452da93dcaab06ba0fd6": {
+        "extension": "css",
+        "kuid": "w371492ff81c452da93dcaab06ba0fd6",
+        "name": "chartistCss.css",
+        "parent": "w994457961274a30a69175b46308c4e3",
+        "type": "F"
+    },
+    "w446e23a58de496b896490cf9d77b16a": {
+        "extension": "js",
+        "kuid": "w446e23a58de496b896490cf9d77b16a",
+        "name": "lineChart.js",
+        "parent": "w994457961274a30a69175b46308c4e3",
+        "type": "F"
+    },
+    "w67e427c0a5445ecaf4c29bce3936d52": {
+        "extension": "js",
+        "kuid": "w67e427c0a5445ecaf4c29bce3936d52",
+        "name": "chartist-plugin-axistitle.js",
+        "parent": "w994457961274a30a69175b46308c4e3",
+        "type": "F"
+    },
+    "w8c25a3c4e7244e3af1217744964a106": {
+        "extension": "js",
+        "kuid": "w8c25a3c4e7244e3af1217744964a106",
+        "name": "chartist.js",
+        "parent": "w994457961274a30a69175b46308c4e3",
+        "type": "F"
+    },
+    "w994457961274a30a69175b46308c4e3": {
+        "children": [
+            "wfeec3e5075a408385666f9ad549f926",
+            "w67e427c0a5445ecaf4c29bce3936d52",
+            "w8c25a3c4e7244e3af1217744964a106",
+            "w371492ff81c452da93dcaab06ba0fd6",
+            "w446e23a58de496b896490cf9d77b16a",
+            "wc245201375b470ea516094d6ae980fd"
+        ],
+        "kuid": "w994457961274a30a69175b46308c4e3",
+        "name": "chartist_line",
+        "parent": "we727728396a4025bf9a446b86ef89c8",
+        "type": "D"
+    },
+    "wc245201375b470ea516094d6ae980fd": {
+        "extension": "html",
+        "kuid": "wc245201375b470ea516094d6ae980fd",
+        "name": "lineChartist.html",
+        "parent": "w994457961274a30a69175b46308c4e3",
+        "type": "F"
+    },
+    "we727728396a4025bf9a446b86ef89c8": {
+        "children": [
+            "w994457961274a30a69175b46308c4e3"
+        ],
+        "kuid": "we727728396a4025bf9a446b86ef89c8",
+        "name": "localfiles",
+        "type": "L"
+    },
+    "wfeec3e5075a408385666f9ad549f926": {
+        "extension": "js",
+        "kuid": "wfeec3e5075a408385666f9ad549f926",
+        "name": "LIC.js",
+        "parent": "w994457961274a30a69175b46308c4e3",
+        "type": "F"
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        16,
+        0,
+        16,
+        16
+    ],
+    "_percent_": true,
+    "_skin_": "sb5b61f098a64d1ea3df5ecdaa3fc9d4",
+    "_top_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "CopyflxCollType0cd16c86ee49b48",
+        "CopyflxLinkedAcct0bba69a7d139740",
+        "CopyflxSurrenderValue0a3a7abf2911044"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "desktopweb": {
+        "render": true
+    },
+    "disabledSkins": {
+        "blockedUISkin": "se10403881e545c88517e38d1704fe6e",
+        "focusSkin": "s055b30cc8544a4092521d1a3c930a38"
+    },
+    "enablescrolling": true,
+    "gutterx": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "guttery": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "id": "CopyflxCollData0a6b9be56bad546",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "b0f75eb96af246fc8ddda065404297e8",
+    "layouttype": 5,
+    "name": "kony.ui.FlexContainer",
+    "nativemac": {
+        "render": true
+    },
+    "nativewin": {
+        "render": true
+    },
+    "paddinginpixel": true,
+    "parent": "flxInsuranceInfo",
+    "pf": "frmCustomer",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

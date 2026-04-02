@@ -1,0 +1,180 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf51dc37fd0a40178320b8330b005a98",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "LabelList": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "ib4bcfc89dd14fc0ae7bcfda8e9e208b",
+                "srcKUID": "e8569db592ac4b2084cb6627f34fed79",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxDropDwnList": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cd86ae0925984550aadd53466b3dd147",
+                "srcKUID": "g95e7534993a40a1b31886c33892c42a",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "30dp"
+                }
+            },
+            "responsiveData": {},
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "3dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "3dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "30dp"
+                }
+            }
+        },
+        "flxList": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a8d7c2f88d0840549cd1a705edb450d8",
+                "srcKUID": "a093d1006b74463e9db532d3b6b40c7f",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgDropDwn": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a4757cd76b2747f5ad94268499d71687",
+                "srcKUID": "j9c77a5c0084491691844e7b4d938125",
+                "wType": "Image"
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "30dp"
+                }
+            },
+            "responsiveData": {},
+            "src": "icon_dropdwn.png",
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "30dp"
+                }
+            }
+        },
+        "lblDetail": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b43e7713723547f599af7942a31aaa47",
+                "srcKUID": "i83b3b3c918f41abbf73db33722419c9",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "Identity Number"
+        },
+        "listData": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a725f43a76834531b1732f27f4d0e434",
+                "srcKUID": "f7c764ae02b6452f874d53ffabf3d5c9",
+                "wType": "ListBox"
+            },
+            "masterData": [
+                [
+                    "None",
+                    "None"
+                ],
+                [
+                    "FCN",
+                    "Financial Card Number"
+                ]
+            ],
+            "responsiveData": {},
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            }
+        }
+    },
+    "enablescrolling": true,
+    "focusskin": null,
+    "id": "IdentityNumber",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "ib4bcfc89dd14fc0ae7bcfda8e9e208b",
+    "layouttype": 4,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxIdentityNum",
+    "pf": "frmCustomer",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "e8569db592ac4b2084cb6627f34fed79",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

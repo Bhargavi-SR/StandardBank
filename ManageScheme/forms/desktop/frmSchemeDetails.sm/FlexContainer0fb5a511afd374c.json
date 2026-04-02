@@ -1,0 +1,95 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        12,
+        0,
+        12,
+        24
+    ],
+    "_percent_": true,
+    "_skin_": "sf51dc37fd0a40178320b8330b005a98",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "FlexContainer0i9ccb313533048",
+        "FlexContainer0d6c95f60b8d043",
+        "FlexContainer0a466de0ddb9c42",
+        "FlexContainer0ace81c82c63440",
+        "FlexContainer0gec71c8ea63249",
+        "FlexContainer0h256b9c7113c4f",
+        "FlexContainer0a4082c17f8f34d",
+        "FlexContainer0ef86dfeff3d747",
+        "FlexContainer0ea8c9b435fe84a",
+        "FlexContainer0caf646fba49b41",
+        "FlexContainer0h195ac660bae44"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "desktopweb": {
+        "render": true
+    },
+    "disabledSkins": {
+        "blockedUISkin": "se10403881e545c88517e38d1704fe6e",
+        "focusSkin": "s055b30cc8544a4092521d1a3c930a38"
+    },
+    "enablescrolling": true,
+    "gutterx": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "guttery": {
+        "type": "string",
+        "value": "24dp"
+    },
+    "id": "FlexContainer0fb5a511afd374c",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "i1d7f0ba62b9473f96c1ca99aa73ea30",
+    "layouttype": 5,
+    "name": "kony.ui.FlexContainer",
+    "nativemac": {
+        "render": true
+    },
+    "nativewin": {
+        "render": true
+    },
+    "paddinginpixel": true,
+    "parent": "flxDetails",
+    "pf": "frmSchemeDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

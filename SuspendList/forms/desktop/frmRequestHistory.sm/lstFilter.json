@@ -1,0 +1,87 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        16,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "s6defbbed6b146e68c052b08880525e8",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "disabledSkins": {
+        "focusSkin": "sb7457c91efc4720a9507d910d4245fe"
+    },
+    "dropdownimage": "listboxarw.png",
+    "groupcells": false,
+    "id": "lstFilter",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a4a4a22007574001acae8ef3f50cebd4",
+    "masterdata": [
+        [
+            "All",
+            "View All"
+        ],
+        [
+            "Approved",
+            "View Approved"
+        ],
+        [
+            "Pending",
+            "View Pending"
+        ],
+        [
+            "Rejected",
+            "View Rejected"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": true,
+    "parent": "flxListBox",
+    "pf": "frmRequestHistory",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "All",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "All",
+        "View All"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

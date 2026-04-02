@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        24,
+        4,
+        24,
+        4
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_skin_": "sda0ea60761d44c0a25aa84bc3aa754f",
+    "_text_": "IMPORT FILE",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "blockedUISkin": "sad650e3b554410cb830f137fe29d4c9",
+        "focusSkin": "sbd11c8af5f14d3e8305f8d426cbc68d",
+        "hoverSkin": "sacac96815eb4ea785aca546c79e8734",
+        "pressedSkin": "se7a1b37f11b4bf5828530c358dac47d"
+    },
+    "displaytext": true,
+    "id": "btnImport",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a94b08fc4f9f4a82922b3da7f682bc1f",
+    "name": "kony.ui.Button",
+    "paddinginpixel": true,
+    "parent": "flxFileChoose",
+    "pf": "frmRemoveScheme",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

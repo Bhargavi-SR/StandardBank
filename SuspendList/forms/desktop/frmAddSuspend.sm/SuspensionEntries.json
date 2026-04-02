@@ -1,0 +1,301 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf51dc37fd0a40178320b8330b005a98",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "SuspensionEntries": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "fd8f0dd0f36b4225ab92656185130ffc",
+                "srcKUID": "c63f5442a4cf47de97dccfe254bf125c",
+                "wType": "FlexContainer"
+            }
+        },
+        "segSuspendEntry": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "cfb7fe844dba429f84533dc6980f198c",
+                "srcKUID": "j9d4a5f806554cb5891663739cb9c4d9",
+                "wType": "Segment"
+            },
+            "data": {
+                "desktop": [
+                    {
+                        "imgDelet": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "icon_delete.png",
+                            "type": "Image"
+                        },
+                        "lblCIFNo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CIF No",
+                            "type": "Label"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Customer Name",
+                            "type": "Label"
+                        },
+                        "lblIDNo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "ID No",
+                            "type": "Label"
+                        },
+                        "lblReason": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Reason",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "imgDelet": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "icon_delete.png",
+                            "type": "Image"
+                        },
+                        "lblCIFNo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CIF No",
+                            "type": "Label"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Customer Name",
+                            "type": "Label"
+                        },
+                        "lblIDNo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "ID No",
+                            "type": "Label"
+                        },
+                        "lblReason": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Reason",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "imgDelet": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "icon_delete.png",
+                            "type": "Image"
+                        },
+                        "lblCIFNo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CIF No",
+                            "type": "Label"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Customer Name",
+                            "type": "Label"
+                        },
+                        "lblIDNo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "ID No",
+                            "type": "Label"
+                        },
+                        "lblReason": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Reason",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "imgDelet": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "icon_delete.png",
+                            "type": "Image"
+                        },
+                        "lblCIFNo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CIF No",
+                            "type": "Label"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Customer Name",
+                            "type": "Label"
+                        },
+                        "lblIDNo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "ID No",
+                            "type": "Label"
+                        },
+                        "lblReason": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Reason",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "imgDelet": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "icon_delete.png",
+                            "type": "Image"
+                        },
+                        "lblCIFNo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CIF No",
+                            "type": "Label"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Customer Name",
+                            "type": "Label"
+                        },
+                        "lblIDNo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "ID No",
+                            "type": "Label"
+                        },
+                        "lblReason": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Reason",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "imgDelet": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "icon_delete.png",
+                            "type": "Image"
+                        },
+                        "lblCIFNo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CIF No",
+                            "type": "Label"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Customer Name",
+                            "type": "Label"
+                        },
+                        "lblIDNo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "ID No",
+                            "type": "Label"
+                        },
+                        "lblReason": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Reason",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "imgDelet": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "icon_delete.png",
+                            "type": "Image"
+                        },
+                        "lblCIFNo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CIF No",
+                            "type": "Label"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Customer Name",
+                            "type": "Label"
+                        },
+                        "lblIDNo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "ID No",
+                            "type": "Label"
+                        },
+                        "lblReason": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Reason",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "imgDelet": {
+                            "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                            "src": "icon_delete.png",
+                            "type": "Image"
+                        },
+                        "lblCIFNo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "CIF No",
+                            "type": "Label"
+                        },
+                        "lblCustomerName": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Customer Name",
+                            "type": "Label"
+                        },
+                        "lblIDNo": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "ID No",
+                            "type": "Label"
+                        },
+                        "lblReason": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Reason",
+                            "type": "Label"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "enablescrolling": true,
+    "focusskin": null,
+    "id": "SuspensionEntries",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "fd8f0dd0f36b4225ab92656185130ffc",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxSuspend",
+    "pf": "frmAddSuspend",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "c63f5442a4cf47de97dccfe254bf125c",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

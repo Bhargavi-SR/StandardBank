@@ -1,0 +1,99 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf51dc37fd0a40178320b8330b005a98",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "LabelTextBox": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "e5211525a8a04f7285bc2775214f6133",
+                "srcKUID": "a3990071b0814867b441e1db1cc05dc2",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblText": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f019318fba99467a9283f3eabe924ad8",
+                "srcKUID": "fc159ae3796344e386a4b83ca85aebcd",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "APPROVER NAME"
+        },
+        "txtBox": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e4166032aa1e402f963e7cb5b9f1a345",
+                "srcKUID": "f79732d604304ed48bf1dd0528b228d8",
+                "wType": "TextField"
+            },
+            "placeholder": "Enter name",
+            "responsiveData": {},
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            }
+        }
+    },
+    "enablescrolling": true,
+    "focusskin": null,
+    "id": "ApproverName",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "e5211525a8a04f7285bc2775214f6133",
+    "layouttype": 4,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxApproverName",
+    "pf": "frmSchemeApprover",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "a3990071b0814867b441e1db1cc05dc2",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

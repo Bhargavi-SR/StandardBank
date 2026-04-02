@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        8,
+        3,
+        45,
+        3
+    ],
+    "_placeholder_": "Search customer CIF, ID, or Name",
+    "_skin_": "s2d3abbd855d4f53bac57dc78cb71ad0",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "placeholderSkin": "s56d0444ab7f4dc2926e988208971624"
+    },
+    "disabledSkins": {
+        "blockedUISkin": "s4265d3422894a7ab34eefc4bd0af188"
+    },
+    "focusskin": "s56d0444ab7f4dc2926e988208971624",
+    "id": "txtSearch",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "de83c197bf4941b4a1d2ed756559e9b6",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": true,
+    "parent": "flxSrchoption",
+    "pf": "frmRemoveSuspend",
+    "placeholderskin": "s56d0444ab7f4dc2926e988208971624",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

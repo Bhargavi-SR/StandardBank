@@ -1,0 +1,76 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf51dc37fd0a40178320b8330b005a98",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "EmpAffordability"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "disabledSkins": {
+        "blockedUISkin": "se10403881e545c88517e38d1704fe6e",
+        "focusSkin": "s055b30cc8544a4092521d1a3c930a38"
+    },
+    "enablescrolling": true,
+    "id": "flxEmpAffordability",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cc4df1fd6b414bc0942f92a5b90dd071",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxEmployeeEntry",
+    "pf": "frmAddScheme",
+    "responsiveconfig": {
+        "offset": {
+            "b1": 0,
+            "b2": 0,
+            "b3": 0
+        },
+        "span": {
+            "b1": 6,
+            "b2": 4,
+            "b3": 6
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

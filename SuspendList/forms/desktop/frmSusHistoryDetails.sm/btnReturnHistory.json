@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "24dp"
+    },
+    "_height_": {
+        "type": "number",
+        "value": "50"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "62dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sda0ea60761d44c0a25aa84bc3aa754f",
+    "_text_": "Return History",
+    "_top_": {
+        "type": "string",
+        "value": "24dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "89%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "blockedUISkin": "sad650e3b554410cb830f137fe29d4c9",
+        "focusSkin": "s3a95d0ef1c347f6b3cc5efd2976adf5",
+        "hoverSkin": "sacac96815eb4ea785aca546c79e8734",
+        "pressedSkin": "se7a1b37f11b4bf5828530c358dac47d"
+    },
+    "displaytext": true,
+    "id": "btnReturnHistory",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j0253efa075f4301bd637a04c380a75a",
+    "name": "kony.ui.Button",
+    "parent": "flxSrcHistoryDetails",
+    "pf": "frmSusHistoryDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

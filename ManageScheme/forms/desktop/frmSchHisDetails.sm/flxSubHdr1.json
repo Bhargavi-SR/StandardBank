@@ -1,0 +1,103 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "sf51dc37fd0a40178320b8330b005a98",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "SubHdr": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "j5304d15e47941da91c98d9ad27fb7ef",
+                "srcKUID": "a25f7337e75143ccb4eb21aa52c73fb1",
+                "wType": "FlexContainer"
+            },
+            "centerY": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            }
+        },
+        "flxSeperator": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "h5614004a2e547b4bfe5ea081b335259",
+                "srcKUID": "g3afc919ddbd414fa5213603963852a7",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblSubHdr": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "j05b6c7ea97e403a9e911f46c4a05a25",
+                "srcKUID": "bb202ccb989f464b9f4c78ea0a05146c",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "Approval Status"
+        }
+    },
+    "enablescrolling": true,
+    "focusskin": null,
+    "id": "flxSubHdr1",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "j5304d15e47941da91c98d9ad27fb7ef",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxApprovalAction",
+    "pf": "frmSchHisDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "a25f7337e75143ccb4eb21aa52c73fb1",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        24,
+        4,
+        24,
+        4
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "250dp"
+    },
+    "_skin_": "sedeb3fdc9f24301a924f5823ee4633c",
+    "_text_": "DISCARD & EXIT",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "blockedUISkin": "sad650e3b554410cb830f137fe29d4c9",
+        "focusSkin": "s3a95d0ef1c347f6b3cc5efd2976adf5",
+        "hoverSkin": "sacac96815eb4ea785aca546c79e8734",
+        "pressedSkin": "se7a1b37f11b4bf5828530c358dac47d"
+    },
+    "displaytext": true,
+    "id": "btnDiscard",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "hf3612ae4cbc4c1785a2e29ea0120fff",
+    "name": "kony.ui.Button",
+    "paddinginpixel": true,
+    "parent": "FlexContainer0ea5b05548d784e",
+    "pf": "frmAddSuspend",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

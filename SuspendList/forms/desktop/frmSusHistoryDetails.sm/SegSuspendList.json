@@ -1,0 +1,242 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "62%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf51dc37fd0a40178320b8330b005a98",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "SegSuspendList": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "dd05cb753b134ddca8c628280e866f01",
+                "srcKUID": "b1648ee87f9b489da46a065e8e15044e",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "centerY": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "62%"
+                }
+            },
+            "responsiveData": {},
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            }
+        },
+        "segSuspend": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f8fe0621f52d4cf091832f649372493b",
+                "srcKUID": "b1f94a5ca58f4f7d9f20e14a555fd1ab",
+                "wType": "Segment"
+            },
+            "data": {
+                "desktop": [
+                    {
+                        "lblCiFNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "111235",
+                            "type": "Label"
+                        },
+                        "lblCustomerNameVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                            "type": "Label"
+                        },
+                        "lblDateVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "23280545",
+                            "type": "Label"
+                        },
+                        "lblIDNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Zuri Nkosi",
+                            "type": "Label"
+                        },
+                        "lblReasonVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "lblCiFNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "232558",
+                            "type": "Label"
+                        },
+                        "lblCustomerNameVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Lorem ipsum dolor sit amet consectetur.",
+                            "type": "Label"
+                        },
+                        "lblDateVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "25323522",
+                            "type": "Label"
+                        },
+                        "lblIDNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Amari Nkosi ",
+                            "type": "Label"
+                        },
+                        "lblReasonVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "lblCiFNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "998524",
+                            "type": "Label"
+                        },
+                        "lblCustomerNameVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Lorem ipsum dolor sit amet consectetur.",
+                            "type": "Label"
+                        },
+                        "lblDateVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "85245623",
+                            "type": "Label"
+                        },
+                        "lblIDNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Chege Nkosi",
+                            "type": "Label"
+                        },
+                        "lblReasonVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "lblCiFNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "220232134",
+                            "type": "Label"
+                        },
+                        "lblCustomerNameVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Lorem ipsum dolor sit amet consectetur.",
+                            "type": "Label"
+                        },
+                        "lblDateVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "99855824",
+                            "type": "Label"
+                        },
+                        "lblIDNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "HCL Software",
+                            "type": "Label"
+                        },
+                        "lblReasonVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "lblCiFNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "652445342",
+                            "type": "Label"
+                        },
+                        "lblCustomerNameVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Lorem ipsum dolor sit amet consectetur.",
+                            "type": "Label"
+                        },
+                        "lblDateVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "22355678",
+                            "type": "Label"
+                        },
+                        "lblIDNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "HCL South America",
+                            "type": "Label"
+                        },
+                        "lblReasonVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "",
+                            "type": "Label"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "enablescrolling": true,
+    "focusskin": "sf51dc37fd0a40178320b8330b005a98",
+    "id": "SegSuspendList",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "dd05cb753b134ddca8c628280e866f01",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxSusHisDetails",
+    "pf": "frmSusHistoryDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "b1648ee87f9b489da46a065e8e15044e",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

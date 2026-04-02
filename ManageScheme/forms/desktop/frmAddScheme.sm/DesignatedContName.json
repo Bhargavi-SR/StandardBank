@@ -1,0 +1,99 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf51dc37fd0a40178320b8330b005a98",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "LabelTextBox": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "ced04fe6985548d6baa21fc94e1b5e93",
+                "srcKUID": "a3990071b0814867b441e1db1cc05dc2",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblText": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i96205f4816e4e45ab3d147937bc016d",
+                "srcKUID": "fc159ae3796344e386a4b83ca85aebcd",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "DESIGNATED CONTACT NAME"
+        },
+        "txtBox": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "df94fd90ecf348dfb1f5aed17f34ee97",
+                "srcKUID": "f79732d604304ed48bf1dd0528b228d8",
+                "wType": "TextField"
+            },
+            "placeholder": "Enter Contact Name",
+            "responsiveData": {},
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            }
+        }
+    },
+    "enablescrolling": true,
+    "focusskin": null,
+    "id": "DesignatedContName",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "ced04fe6985548d6baa21fc94e1b5e93",
+    "layouttype": 4,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxDesigContName",
+    "pf": "frmAddScheme",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "a3990071b0814867b441e1db1cc05dc2",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

@@ -1,0 +1,118 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf51dc37fd0a40178320b8330b005a98",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {},
+    "androidwearos": {},
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "LabelsField": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "fd6d77085e574aa5843704c1b89bf154",
+                "srcKUID": "da969f897817423280b2ae79a83f1831",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblDetail": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "be43deb60c544f8690d7a77c8487b7cb",
+                "srcKUID": "f2ad940a55144e3aa422aa0e7e03c9f5",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "EMPLOYER NAME"
+        },
+        "lblDetailValue": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ff58d54fe1d14af8b2b2d740500256c0",
+                "srcKUID": "i42d1c7050b948a086498544defc3e6a",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "HCL Software America"
+        }
+    },
+    "desktopweb": {},
+    "enablescrolling": true,
+    "focusskin": null,
+    "id": "EmployerNamePopup",
+    "info": null,
+    "ipad": {},
+    "iphone": {},
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kiosk": {},
+    "kuid": "fd6d77085e574aa5843704c1b89bf154",
+    "layouttype": 4,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxGridEmployerName",
+    "pf": "frmRemoveScheme",
+    "responsiveData": {},
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "da969f897817423280b2ae79a83f1831",
+    "spa": {},
+    "spaan": {},
+    "spaandroidtablet": {},
+    "spabb": {},
+    "spaip": {},
+    "spaipad": {},
+    "spamobile": {},
+    "spatablet": {},
+    "spawindowstablet": {},
+    "spawinphone8": {},
+    "tabrcandroid": {},
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "UserWidgetInstance",
+    "windows10": {},
+    "windows8": {},
+    "winphone10": {},
+    "winphone8": {},
+    "zindex": 1
+}

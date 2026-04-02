@@ -1,0 +1,213 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "62%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf51dc37fd0a40178320b8330b005a98",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {},
+    "androidwearos": {},
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "SegSuspendList": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "ec3141749e2f43bca00a6a1d99fb7019",
+                "srcKUID": "b1648ee87f9b489da46a065e8e15044e",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "centerY": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "62%"
+                }
+            },
+            "responsiveData": {},
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            }
+        },
+        "segSuspend": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ab7a7b395902446d825941eaba290e18",
+                "srcKUID": "b1f94a5ca58f4f7d9f20e14a555fd1ab",
+                "wType": "Segment"
+            },
+            "data": {
+                "desktop": [
+                    {
+                        "lblCiFNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Approver Name 1",
+                            "type": "Label"
+                        },
+                        "lblCustomerNameVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                            "type": "Label"
+                        },
+                        "lblDateVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "DD/MM/YYYY HH:MM",
+                            "type": "Label"
+                        },
+                        "lblIDNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Rejected",
+                            "type": "Label"
+                        },
+                        "lblReasonVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "lblCiFNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Approver Name 2",
+                            "type": "Label"
+                        },
+                        "lblCustomerNameVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Corrections look good. List approved.",
+                            "type": "Label"
+                        },
+                        "lblDateVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "DD/MM/YYYY HH:MM",
+                            "type": "Label"
+                        },
+                        "lblIDNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Approved",
+                            "type": "Label"
+                        },
+                        "lblReasonVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "lblCiFNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Approver Name 3",
+                            "type": "Label"
+                        },
+                        "lblCustomerNameVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "List approved.",
+                            "type": "Label"
+                        },
+                        "lblDateVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "DD/MM/YYYY HH:MM",
+                            "type": "Label"
+                        },
+                        "lblIDNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Approved",
+                            "type": "Label"
+                        },
+                        "lblReasonVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "",
+                            "type": "Label"
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "desktopweb": {},
+    "enablescrolling": true,
+    "focusskin": "sf51dc37fd0a40178320b8330b005a98",
+    "id": "SegApprovalAction",
+    "info": null,
+    "ipad": {},
+    "iphone": {},
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kiosk": {},
+    "kuid": "ec3141749e2f43bca00a6a1d99fb7019",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxApprovalStatus",
+    "pf": "frmSusHistoryDetails",
+    "responsiveData": {},
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "b1648ee87f9b489da46a065e8e15044e",
+    "spa": {},
+    "spaan": {},
+    "spaandroidtablet": {},
+    "spabb": {},
+    "spaip": {},
+    "spaipad": {},
+    "spamobile": {},
+    "spatablet": {},
+    "spawindowstablet": {},
+    "spawinphone8": {},
+    "tabrcandroid": {},
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "UserWidgetInstance",
+    "windows10": {},
+    "windows8": {},
+    "winphone10": {},
+    "winphone8": {},
+    "zindex": 1
+}

@@ -1,0 +1,91 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "83%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf51dc37fd0a40178320b8330b005a98",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "SegApproverScheme": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "bffac96292ee4771a9aa110861ce21f2",
+                "srcKUID": "f85baf6709bb4dd392b7803afa32c837",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "83%"
+                }
+            },
+            "responsiveData": {}
+        },
+        "segApprover": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c4c84149757440069f67fbb1c3f5c95a",
+                "srcKUID": "afef1d0c9b3e4674b10bf6822d315126",
+                "wType": "Segment"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "focusskin": null,
+    "id": "SegApproverScheme",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "bffac96292ee4771a9aa110861ce21f2",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxApproverList",
+    "pf": "frmApprovers",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "f85baf6709bb4dd392b7803afa32c837",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

@@ -1,0 +1,346 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "75%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf457513fbdd48dab0d251bee11aaa36",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {},
+    "androidwearos": {},
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "SegSuspendList": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "f7274f6ebc264d73b8905d338bbde196",
+                "srcKUID": "b1648ee87f9b489da46a065e8e15044e",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "75%"
+                }
+            },
+            "responsiveData": {}
+        },
+        "segSuspend": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "dd3ca169418d4a85946d6862dadb135f",
+                "srcKUID": "b1f94a5ca58f4f7d9f20e14a555fd1ab",
+                "wType": "Segment"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "data": {
+                "desktop": [
+                    {
+                        "lblCiFNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "23280545",
+                            "type": "Label"
+                        },
+                        "lblCustomerNameVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                            "type": "Label"
+                        },
+                        "lblDateVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "232805454",
+                            "type": "Label"
+                        },
+                        "lblIDNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Zuri Naosi",
+                            "type": "Label"
+                        },
+                        "lblReasonVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "lblCiFNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "23280545",
+                            "type": "Label"
+                        },
+                        "lblCustomerNameVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                            "type": "Label"
+                        },
+                        "lblDateVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "234234234",
+                            "type": "Label"
+                        },
+                        "lblIDNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Zuri Naosi",
+                            "type": "Label"
+                        },
+                        "lblReasonVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "lblCiFNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "23280545",
+                            "type": "Label"
+                        },
+                        "lblCustomerNameVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                            "type": "Label"
+                        },
+                        "lblDateVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "342343555",
+                            "type": "Label"
+                        },
+                        "lblIDNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Zuri Naosi",
+                            "type": "Label"
+                        },
+                        "lblReasonVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "lblCiFNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "23280545",
+                            "type": "Label"
+                        },
+                        "lblCustomerNameVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                            "type": "Label"
+                        },
+                        "lblDateVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "323456789",
+                            "type": "Label"
+                        },
+                        "lblIDNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Amari Naosi",
+                            "type": "Label"
+                        },
+                        "lblReasonVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "lblCiFNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "23280545",
+                            "type": "Label"
+                        },
+                        "lblCustomerNameVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                            "type": "Label"
+                        },
+                        "lblDateVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "232805454",
+                            "type": "Label"
+                        },
+                        "lblIDNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Chege Naosi",
+                            "type": "Label"
+                        },
+                        "lblReasonVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "lblCiFNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "23280545",
+                            "type": "Label"
+                        },
+                        "lblCustomerNameVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                            "type": "Label"
+                        },
+                        "lblDateVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "234234234",
+                            "type": "Label"
+                        },
+                        "lblIDNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Chege Naosi",
+                            "type": "Label"
+                        },
+                        "lblReasonVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "lblCiFNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "23280545",
+                            "type": "Label"
+                        },
+                        "lblCustomerNameVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                            "type": "Label"
+                        },
+                        "lblDateVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "323456789",
+                            "type": "Label"
+                        },
+                        "lblIDNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "HCL Software",
+                            "type": "Label"
+                        },
+                        "lblReasonVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "lblCiFNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "23280545",
+                            "type": "Label"
+                        },
+                        "lblCustomerNameVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.",
+                            "type": "Label"
+                        },
+                        "lblDateVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "323456789",
+                            "type": "Label"
+                        },
+                        "lblIDNoVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "HCL South America",
+                            "type": "Label"
+                        },
+                        "lblReasonVal": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "",
+                            "type": "Label"
+                        }
+                    }
+                ]
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            },
+            "responsiveData": {}
+        }
+    },
+    "desktopweb": {},
+    "enablescrolling": true,
+    "focusskin": null,
+    "id": "segApprovalStatus",
+    "info": null,
+    "ipad": {},
+    "iphone": {},
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kiosk": {},
+    "kuid": "f7274f6ebc264d73b8905d338bbde196",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxApprovalStatus",
+    "pf": "frmSchHisDetails",
+    "responsiveData": {},
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "b1648ee87f9b489da46a065e8e15044e",
+    "spa": {},
+    "spaan": {},
+    "spaandroidtablet": {},
+    "spabb": {},
+    "spaip": {},
+    "spaipad": {},
+    "spamobile": {},
+    "spatablet": {},
+    "spawindowstablet": {},
+    "spawinphone8": {},
+    "tabrcandroid": {},
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "UserWidgetInstance",
+    "windows10": {},
+    "windows8": {},
+    "winphone10": {},
+    "winphone8": {},
+    "zindex": 1
+}

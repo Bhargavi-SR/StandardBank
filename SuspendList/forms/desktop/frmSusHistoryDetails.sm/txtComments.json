@@ -1,0 +1,78 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextArea2",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_placeholder_": "Enter comments here",
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "s6828d8fff1d43aa83065d1b32cdbe8a",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "closebuttontext": "",
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "desktopweb": {
+        "psp": {
+            "placeholderSkin": "s6828d8fff1d43aa83065d1b32cdbe8a"
+        }
+    },
+    "disabledSkins": {
+        "blockedUISkin": "s31be43304804967ad6bbe27b0fde352",
+        "hoverSkin": "s3969463ae1946eebf26633fd316cecc"
+    },
+    "focusskin": "s6828d8fff1d43aa83065d1b32cdbe8a",
+    "id": "txtComments",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "e9e6f6c9732e4fc8999c5bd757b16e31",
+    "mode": "A",
+    "name": "kony.ui.TextArea2",
+    "numberofvisiblelines": 3,
+    "parent": "flxTextArea",
+    "pf": "frmSusHistoryDetails",
+    "placeholderskin": "s6828d8fff1d43aa83065d1b32cdbe8a",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "showoprogressindicator": false,
+    "showprogressindicator": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextArea",
+    "zindex": 1
+}

@@ -1,0 +1,70 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Search for customer CIF",
+    "_skin_": "s2d3abbd855d4f53bac57dc78cb71ad0",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "placeholderSkin": "s8522b3fb9974f20b21f059d3ed3aa4a"
+    },
+    "disabledSkins": {
+        "blockedUISkin": "s4265d3422894a7ab34eefc4bd0af188",
+        "focusSkin": "se14b6f0875a4148be349325c5c8bc5f"
+    },
+    "id": "txtSrch",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "g2fdd83e6036497294a7bdf8001a7906",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "flxSrchBox",
+    "pf": "frmAddSuspend",
+    "placeholderskin": "s8522b3fb9974f20b21f059d3ed3aa4a",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

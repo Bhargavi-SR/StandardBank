@@ -1,0 +1,114 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s9ad6e320360464099ce9d666399bec4",
+    "_top_": {
+        "type": "string",
+        "value": "8dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "500px"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "SrchTextBox": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "d22838cf84874c70a1f5536b6fe4e7ca",
+                "srcKUID": "h6f01aa0566e47fcbc2c5e0f7d7f5a64",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "12%"
+                }
+            },
+            "responsiveData": {},
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "8dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "500px"
+                }
+            }
+        },
+        "imgSrch": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "da6f3280f55b42f1807ba49a484ff01d",
+                "srcKUID": "j17ea7c691de4903b0721864d263719c",
+                "wType": "Image"
+            },
+            "src": "icon_srch.png"
+        },
+        "txtSrch": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e67b4876bd8545458bca56ad8c632292",
+                "srcKUID": "a94bc69ab87742da88fc14ac5d4a1294",
+                "wType": "TextField"
+            },
+            "placeholder": "Search scheme ID, scheme name, CIF, or company",
+            "responsiveData": {}
+        }
+    },
+    "enablescrolling": true,
+    "focusskin": "s055b30cc8544a4092521d1a3c930a38",
+    "id": "SrchTextBox",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "d22838cf84874c70a1f5536b6fe4e7ca",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxEmployeeDetails",
+    "pf": "frmSchemeDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "h6f01aa0566e47fcbc2c5e0f7d7f5a64",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

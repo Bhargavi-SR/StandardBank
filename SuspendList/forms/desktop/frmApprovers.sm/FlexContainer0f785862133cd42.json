@@ -1,0 +1,80 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        12,
+        12,
+        12,
+        16
+    ],
+    "_percent_": true,
+    "_skin_": "sd57bc32f80148aa839fd21595a55ec6",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "flxApproverName",
+        "flxEmployeeNumber",
+        "flxEmailAddress",
+        "flxMobileNumber"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "desktopweb": {
+        "render": true
+    },
+    "disabledSkins": {
+        "blockedUISkin": "se10403881e545c88517e38d1704fe6e"
+    },
+    "enablescrolling": true,
+    "focusskin": "s055b30cc8544a4092521d1a3c930a38",
+    "gutterx": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "guttery": {
+        "type": "string",
+        "value": "24dp"
+    },
+    "id": "FlexContainer0f785862133cd42",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "d47d0b34ad734784a0e49bbf920af7e3",
+    "layouttype": 5,
+    "name": "kony.ui.FlexContainer",
+    "nativemac": {
+        "render": true
+    },
+    "nativewin": {
+        "render": true
+    },
+    "paddinginpixel": true,
+    "parent": "flxAddApproval",
+    "pf": "frmApprovers",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

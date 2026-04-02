@@ -1,0 +1,101 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf457513fbdd48dab0d251bee11aaa36",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "SegSuspendList": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "ddee5e42388247f99e9534f62a106dc2",
+                "srcKUID": "b1648ee87f9b489da46a065e8e15044e",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 1
+            },
+            "height": {
+                "Default": {
+                    "type": "ref",
+                    "value": "preferred"
+                }
+            },
+            "responsiveData": {}
+        },
+        "segSuspend": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ef8596cac7b5408c85546f578cb6b773",
+                "srcKUID": "b1f94a5ca58f4f7d9f20e14a555fd1ab",
+                "wType": "Segment"
+            },
+            "autogrowMode": {
+                "Default": 1
+            },
+            "height": {
+                "Default": {
+                    "type": "ref",
+                    "value": "preferred"
+                }
+            },
+            "responsiveData": {}
+        }
+    },
+    "enablescrolling": true,
+    "focusskin": null,
+    "id": "SegSuspendList",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "ddee5e42388247f99e9534f62a106dc2",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxRequestHistory",
+    "pf": "frmSchemeReqHistory",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "b1648ee87f9b489da46a065e8e15044e",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

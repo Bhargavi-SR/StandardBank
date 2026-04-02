@@ -1,0 +1,124 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf51dc37fd0a40178320b8330b005a98",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {},
+    "androidwearos": {},
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "LabelTextBox": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "h60b4a1492584a41864fa080899fcd85",
+                "srcKUID": "a3990071b0814867b441e1db1cc05dc2",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblText": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b4e635eda5be402cae6deee39b5da78a",
+                "srcKUID": "fc159ae3796344e386a4b83ca85aebcd",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "STATUTORY DEDUCTIONS (KES)"
+        },
+        "txtBox": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "b0d016b501d2472c91cfd8f369d22aeb",
+                "srcKUID": "f79732d604304ed48bf1dd0528b228d8",
+                "wType": "TextField"
+            },
+            "placeholder": "Enter Amount",
+            "responsiveData": {},
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            }
+        }
+    },
+    "desktopweb": {},
+    "enablescrolling": true,
+    "focusskin": null,
+    "id": "EmpStatutoryDed",
+    "info": null,
+    "ipad": {},
+    "iphone": {},
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kiosk": {},
+    "kuid": "h60b4a1492584a41864fa080899fcd85",
+    "layouttype": 4,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxEmpStatutoryDed",
+    "pf": "frmRemoveScheme",
+    "responsiveData": {},
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "a3990071b0814867b441e1db1cc05dc2",
+    "spa": {},
+    "spaan": {},
+    "spaandroidtablet": {},
+    "spabb": {},
+    "spaip": {},
+    "spaipad": {},
+    "spamobile": {},
+    "spatablet": {},
+    "spawindowstablet": {},
+    "spawinphone8": {},
+    "tabrcandroid": {},
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "UserWidgetInstance",
+    "windows10": {},
+    "windows8": {},
+    "winphone10": {},
+    "winphone8": {},
+    "zindex": 1
+}

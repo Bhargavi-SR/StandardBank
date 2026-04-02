@@ -1,0 +1,188 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "se1c14df4e0140f595b71735e82dcc1c",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {},
+    "androidwearos": {},
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "LabelList": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "ed2a29140baf40f79120f31fc7f6f216",
+                "srcKUID": "e8569db592ac4b2084cb6627f34fed79",
+                "wType": "FlexContainer"
+            }
+        },
+        "flxDropDwnList": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ia8e3be33290468a8915fd79b13b6a16",
+                "srcKUID": "g95e7534993a40a1b31886c33892c42a",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "35px"
+                }
+            },
+            "responsiveData": {},
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "3dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "2dp"
+                }
+            }
+        },
+        "flxList": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d9a21f1cadd2465cbc84ff91d2ec620c",
+                "srcKUID": "a093d1006b74463e9db532d3b6b40c7f",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgDropDwn": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d72b2ece8641491f930ff559c705cf29",
+                "srcKUID": "j9c77a5c0084491691844e7b4d938125",
+                "wType": "Image"
+            },
+            "src": "icon_dropdwn.png"
+        },
+        "lblDetail": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "a2abea36e52f43b4b3a1915841f9b764",
+                "srcKUID": "i83b3b3c918f41abbf73db33722419c9",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "REMOVE METHOD"
+        },
+        "listData": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "ib1eee63acb344cdae705d7af987f9ca",
+                "srcKUID": "f7c764ae02b6452f874d53ffabf3d5c9",
+                "wType": "ListBox"
+            },
+            "masterData": [
+                [
+                    "MC",
+                    "Manual Company Remove (max 10 items)"
+                ],
+                [
+                    "UC",
+                    "Upload Company File"
+                ],
+                [
+                    "ME",
+                    "Manual Employee Remove (max 10 items)"
+                ],
+                [
+                    "UE",
+                    "Upload Employee File"
+                ]
+            ],
+            "responsiveData": {},
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            }
+        }
+    },
+    "desktopweb": {},
+    "enablescrolling": true,
+    "focusskin": "s055b30cc8544a4092521d1a3c930a38",
+    "id": "AddMethod",
+    "info": null,
+    "ipad": {},
+    "iphone": {},
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kiosk": {},
+    "kuid": "ed2a29140baf40f79120f31fc7f6f216",
+    "layouttype": 4,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxAddMethod",
+    "pf": "frmRemoveScheme",
+    "responsiveData": {},
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "e8569db592ac4b2084cb6627f34fed79",
+    "spa": {},
+    "spaan": {},
+    "spaandroidtablet": {},
+    "spabb": {},
+    "spaip": {},
+    "spaipad": {},
+    "spamobile": {},
+    "spatablet": {},
+    "spawindowstablet": {},
+    "spawinphone8": {},
+    "tabrcandroid": {},
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "UserWidgetInstance",
+    "windows10": {},
+    "windows8": {},
+    "winphone10": {},
+    "winphone8": {},
+    "zindex": 1
+}

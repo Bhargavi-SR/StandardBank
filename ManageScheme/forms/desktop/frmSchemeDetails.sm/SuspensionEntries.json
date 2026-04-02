@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf51dc37fd0a40178320b8330b005a98",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "SuspensionEntries": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "i84872acea434deea26f3e5046018914",
+                "srcKUID": "c63f5442a4cf47de97dccfe254bf125c",
+                "wType": "FlexContainer"
+            }
+        },
+        "segSuspendEntry": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e5761cb8c122437691bd4d8dd89f8539",
+                "srcKUID": "j9d4a5f806554cb5891663739cb9c4d9",
+                "wType": "Segment"
+            }
+        }
+    },
+    "enablescrolling": true,
+    "focusskin": null,
+    "id": "SuspensionEntries",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "i84872acea434deea26f3e5046018914",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxEmployeeDetails",
+    "pf": "frmSchemeDetails",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "c63f5442a4cf47de97dccfe254bf125c",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

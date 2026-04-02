@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollFlexForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "slForm",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "breakpointInfo": {
+        "b1": {
+            "width": 1366
+        },
+        "b2": {
+            "width": 1024
+        },
+        "b3": {
+            "width": 640
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "CopyFBox0ec887391a0be42"
+    ],
+    "containerId": true,
+    "containerweight": 100,
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "id": "CopyFBox0dcc03f8c888645",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "intransitionconfig": {
+        "formTransition": "None"
+    },
+    "isGeneratedTemplate": false,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b9bc10d772bf4e759ac319594acb4307",
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "outtransitionconfig": {
+        "formTransition": "None"
+    },
+    "paddinginpixel": false,
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainscrollposition": false,
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

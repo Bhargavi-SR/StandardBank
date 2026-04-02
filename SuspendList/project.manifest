@@ -1,0 +1,10 @@
+{
+    "dependencies": [
+        {
+            "name": "SBCommon",
+            "useResources": true,
+            "isHidden": false,
+            "excludeFromBuild": false
+        }
+    ]
+}

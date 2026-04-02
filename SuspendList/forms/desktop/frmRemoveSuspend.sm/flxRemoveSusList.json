@@ -1,0 +1,73 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sb5b61f098a64d1ea3df5ecdaa3fc9d4",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "flxRemoveStatusHdr",
+        "flxSeparator",
+        "flxListSource",
+        "flxSepLine",
+        "flxTypeEntry",
+        "flxSearchCriteria",
+        "flxSrch",
+        "flxDocUpload",
+        "flxReason",
+        "btnRemoveEntry"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "disabledSkins": {
+        "blockedUISkin": "se10403881e545c88517e38d1704fe6e"
+    },
+    "enablescrolling": true,
+    "focusskin": "sb5b61f098a64d1ea3df5ecdaa3fc9d4",
+    "id": "flxRemoveSusList",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h70acdc06f854855a1f4e00183b502c4",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxSrcRemoveSuspendList",
+    "pf": "frmRemoveSuspend",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

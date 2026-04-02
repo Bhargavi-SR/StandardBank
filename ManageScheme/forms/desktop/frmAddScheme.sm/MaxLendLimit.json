@@ -1,0 +1,100 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf51dc37fd0a40178320b8330b005a98",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "LabelTextBox": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "cbc3cc3ca48d40dc803cb0c828fa3365",
+                "srcKUID": "a3990071b0814867b441e1db1cc05dc2",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblText": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "jf338892f9e643789f7c7d73af9d45a4",
+                "srcKUID": "fc159ae3796344e386a4b83ca85aebcd",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "MAXIMUM LENDING LIMIT (KES)"
+        },
+        "txtBox": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i87c02b4a9e340cd8707eb4a56fd2ad5",
+                "srcKUID": "f79732d604304ed48bf1dd0528b228d8",
+                "wType": "TextField"
+            },
+            "placeholder": "Enter amount",
+            "responsiveData": {},
+            "text": "",
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            }
+        }
+    },
+    "enablescrolling": true,
+    "focusskin": null,
+    "id": "MaxLendLimit",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "cbc3cc3ca48d40dc803cb0c828fa3365",
+    "layouttype": 4,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxMaxLendLimit",
+    "pf": "frmAddScheme",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "a3990071b0814867b441e1db1cc05dc2",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

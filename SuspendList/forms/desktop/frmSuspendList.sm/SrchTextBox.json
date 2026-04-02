@@ -1,0 +1,91 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "7%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s9ad6e320360464099ce9d666399bec4",
+    "_top_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "97%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "SrchTextBox": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "e6d12d9f261b4b859b2bee0f2617c7e1",
+                "srcKUID": "h6f01aa0566e47fcbc2c5e0f7d7f5a64",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgSrch": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "hb2bd9aac7434ce9a042e3b060ea06e4",
+                "srcKUID": "j17ea7c691de4903b0721864d263719c",
+                "wType": "Image"
+            }
+        },
+        "txtSrch": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "i4f2499261074efa9175d4c16460cd07",
+                "srcKUID": "a94bc69ab87742da88fc14ac5d4a1294",
+                "wType": "TextField"
+            },
+            "placeholder": "Search customer CIF, ID or name",
+            "responsiveData": {}
+        }
+    },
+    "enablescrolling": true,
+    "focusskin": "s055b30cc8544a4092521d1a3c930a38",
+    "id": "SrchTextBox",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "e6d12d9f261b4b859b2bee0f2617c7e1",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxSuspendListData",
+    "pf": "frmSuspendList",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "h6f01aa0566e47fcbc2c5e0f7d7f5a64",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

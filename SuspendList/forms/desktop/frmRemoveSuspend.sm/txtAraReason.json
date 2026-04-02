@@ -1,0 +1,79 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextArea2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_placeholder_": "Enter Reason for suspension",
+    "_skin_": "sfb07fca66994ec08c3316038e53f301",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "closebuttontext": "",
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "desktopweb": {
+        "psp": {
+            "placeholderSkin": "s542cf77bc9948a2ba3d53035c821ecc"
+        }
+    },
+    "disabledSkins": {
+        "blockedUISkin": "s31be43304804967ad6bbe27b0fde352",
+        "hoverSkin": "s3969463ae1946eebf26633fd316cecc"
+    },
+    "focusskin": "sfb07fca66994ec08c3316038e53f301",
+    "id": "txtAraReason",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "e4ef9aa3161441cea89ae181aa444e21",
+    "mode": "A",
+    "name": "kony.ui.TextArea2",
+    "numberofvisiblelines": 3,
+    "paddinginpixel": false,
+    "parent": "flxReasonBox",
+    "pf": "frmRemoveSuspend",
+    "placeholderskin": "s542cf77bc9948a2ba3d53035c821ecc",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "showoprogressindicator": false,
+    "showprogressindicator": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextArea",
+    "zindex": 1
+}

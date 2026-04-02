@@ -1,0 +1,83 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf51dc37fd0a40178320b8330b005a98",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "FormHeader": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "a132081c85694c0595905c99620f712a",
+                "srcKUID": "ja2cbe8fda184c1caaab89eeae9fb281",
+                "wType": "FlexContainer"
+            }
+        },
+        "lblHdr": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "d52e9e08034e40a0a68555986097b122",
+                "srcKUID": "ecaffe136a7647ee89b97eff000d8e8c",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "Add Scheme"
+        }
+    },
+    "enablescrolling": true,
+    "focusskin": "sf51dc37fd0a40178320b8330b005a98",
+    "id": "FormHeader",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "a132081c85694c0595905c99620f712a",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxRight",
+    "pf": "frmAddScheme",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "ja2cbe8fda184c1caaab89eeae9fb281",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

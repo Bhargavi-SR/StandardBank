@@ -1,0 +1,222 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "_children_": [],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "24dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf51dc37fd0a40178320b8330b005a98",
+    "_top_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "areflexpropsreferenced": false,
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "clipbounds": false,
+    "containerweight": 0,
+    "dataDiffs": {
+        "LabelList": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "g0180a7a9d0e46c588e7240752e3bb5f",
+                "srcKUID": "e8569db592ac4b2084cb6627f34fed79",
+                "wType": "FlexContainer"
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "24dp"
+                }
+            },
+            "responsiveData": {},
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "16dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "96%"
+                }
+            }
+        },
+        "flxDropDwnList": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "c4d53ef6ca4c42999052e6563d243079",
+                "srcKUID": "g95e7534993a40a1b31886c33892c42a",
+                "wType": "FlexContainer"
+            },
+            "autogrowMode": {
+                "Default": 0
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "25dp"
+                }
+            },
+            "responsiveData": {},
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "3dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "7dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "25dp"
+                }
+            }
+        },
+        "flxList": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "e24d385f49c14df58112a5e730554802",
+                "srcKUID": "a093d1006b74463e9db532d3b6b40c7f",
+                "wType": "FlexContainer"
+            }
+        },
+        "imgDropDwn": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "fcdbe6ad20d64748b3d60ef65d236680",
+                "srcKUID": "j9c77a5c0084491691844e7b4d938125",
+                "wType": "Image"
+            },
+            "centerX": {
+                "Default": {
+                    "type": "string",
+                    "value": "50%"
+                }
+            },
+            "centerY": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "25dp"
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "responsiveData": {},
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "25dp"
+                }
+            }
+        },
+        "lblDetail": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "g94e6b72691043e3a9341f060be57aff",
+                "srcKUID": "i83b3b3c918f41abbf73db33722419c9",
+                "wType": "Label"
+            },
+            "responsiveData": {},
+            "text": "NEW LIST SOURCE"
+        },
+        "listData": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "jacc2fcd9feb4fe7a252889445341206",
+                "srcKUID": "f7c764ae02b6452f874d53ffabf3d5c9",
+                "wType": "ListBox"
+            },
+            "masterData": [
+                [
+                    "ME",
+                    "Manual Entry (max 10 items)"
+                ],
+                [
+                    "UF",
+                    "Upload File"
+                ]
+            ],
+            "responsiveData": {},
+            "width": {
+                "Default": {
+                    "type": "string",
+                    "value": "100%"
+                }
+            }
+        }
+    },
+    "enablescrolling": true,
+    "focusskin": null,
+    "id": "ListSource",
+    "info": null,
+    "iscustomlayout": false,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "g0180a7a9d0e46c588e7240752e3bb5f",
+    "layouttype": 4,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "flxAddSusList",
+    "pf": "frmAddSuspend",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "e8569db592ac4b2084cb6627f34fed79",
+    "wType": "UserWidgetInstance",
+    "zindex": 1
+}

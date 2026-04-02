@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "20"
+    },
+    "_skin_": "sda0ea60761d44c0a25aa84bc3aa754f",
+    "_text_": "SUBMIT FOR REMOVAL",
+    "_top_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "255dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "blockedUISkin": "sad650e3b554410cb830f137fe29d4c9",
+        "hoverSkin": "sacac96815eb4ea785aca546c79e8734",
+        "pressedSkin": "se7a1b37f11b4bf5828530c358dac47d"
+    },
+    "displaytext": true,
+    "focusskin": "sda0ea60761d44c0a25aa84bc3aa754f",
+    "id": "btnRemoveSubmit",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a8b503f6ab6948478ca807cf7cd06ceb",
+    "name": "kony.ui.Button",
+    "parent": "flxButtons",
+    "pf": "frmRemoveSuspend",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        16,
+        3,
+        1,
+        3
+    ],
+    "_placeholder_": "sfdfg",
+    "_skin_": "s2d3abbd855d4f53bac57dc78cb71ad0",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "placeholderSkin": "s8522b3fb9974f20b21f059d3ed3aa4a"
+    },
+    "disabledSkins": {
+        "blockedUISkin": "s4265d3422894a7ab34eefc4bd0af188"
+    },
+    "focusskin": "sa7ed060dbc74c75a5f7d403180179c0",
+    "id": "txtBox",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "f79732d604304ed48bf1dd0528b228d8",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": true,
+    "parent": "LabelTextBox",
+    "pf": "userwidgetmodel",
+    "placeholderskin": "s8522b3fb9974f20b21f059d3ed3aa4a",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

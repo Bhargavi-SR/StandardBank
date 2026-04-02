@@ -1,0 +1,73 @@
+{
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "64dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s13a2089eddd45cf89a10724aa9345bd",
+    "_top_": {
+        "type": "string",
+        "value": "120dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "children": [
+        "segMenu"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "decelerat": false,
+    "disabledSkins": {
+        "blockedUISkin": "slFSBlockedUIbox"
+    },
+    "dragg": false,
+    "enablescrolling": true,
+    "focusskin": "s13a2089eddd45cf89a10724aa9345bd",
+    "horizontalscrollindicator": true,
+    "id": "flxSegMenu",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "h58934e7923849c0b5270bd55a5d8cef",
+    "layouttype": 2,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "SideMenu",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

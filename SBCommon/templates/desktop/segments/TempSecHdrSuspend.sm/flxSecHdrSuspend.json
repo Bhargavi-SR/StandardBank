@@ -1,0 +1,75 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s1860cb829f64794999ae80557fd4327",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblDate",
+        "lblCIFNo",
+        "lblIDNo",
+        "lblCustomerName",
+        "lblReason"
+    ],
+    "clipbounds": false,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "desktop",
+            "name": "flxSecHdrSuspendController"
+        }
+    },
+    "disabledSkins": {
+        "blockedUISkin": "se10403881e545c88517e38d1704fe6e"
+    },
+    "enablescrolling": true,
+    "focusskin": "s1860cb829f64794999ae80557fd4327",
+    "id": "flxSecHdrSuspend",
+    "info": null,
+    "isTemplate": true,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cc8e37b2a5e542518da0e6c949ec42de",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "TempSecHdrSuspend",
+    "pf": "TempSecHdrSuspend",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

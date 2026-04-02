@@ -1,0 +1,396 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "desktop": {
+        "_data_": [
+            {
+                "imgDelete": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "icon_delete.png"
+                },
+                "imgEdit": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblEmail": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblEmployeeNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblMobileNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgDelete": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "icon_delete.png"
+                },
+                "imgEdit": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblEmail": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblEmployeeNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblMobileNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgDelete": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "icon_delete.png"
+                },
+                "imgEdit": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblEmail": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblEmployeeNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblMobileNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgDelete": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "icon_delete.png"
+                },
+                "imgEdit": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblEmail": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblEmployeeNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblMobileNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgDelete": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "icon_delete.png"
+                },
+                "imgEdit": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblEmail": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblEmployeeNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblMobileNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgDelete": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "icon_delete.png"
+                },
+                "imgEdit": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblEmail": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblEmployeeNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblMobileNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgDelete": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "icon_delete.png"
+                },
+                "imgEdit": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblEmail": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblEmployeeNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblMobileNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgDelete": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "icon_delete.png"
+                },
+                "imgEdit": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblEmail": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblEmployeeNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblMobileNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgDelete": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "icon_delete.png"
+                },
+                "imgEdit": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblEmail": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblEmployeeNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblMobileNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            },
+            {
+                "imgDelete": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "icon_delete.png"
+                },
+                "imgEdit": {
+                    "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                    "src": "imagedrag.png"
+                },
+                "lblEmail": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblEmployeeNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblMobileNo": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                },
+                "lblName": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Label"
+                }
+            }
+        ],
+        "rowTemplateId": "ffa905261770438594b076caf06c7d72",
+        "rowtemplate": "flxApprover",
+        "widgetdatamap": {
+            "flxApprover": "flxApprover",
+            "flxDelete": "flxDelete",
+            "flxEdit": "flxEdit",
+            "imgDelete": "imgDelete",
+            "imgEdit": "imgEdit",
+            "lblEmail": "lblEmail",
+            "lblEmployeeNo": "lblEmployeeNo",
+            "lblMobileNo": "lblMobileNo",
+            "lblName": "lblName"
+        }
+    },
+    "disabledSkins": {
+        "rowFocusSkin": "s89d578329194107941192e82b116fac"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segApprover",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "afef1d0c9b3e4674b10bf6822d315126",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "SegApproverScheme",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowcounter": 9,
+    "rowfocusskin": null,
+    "rowskin": "s95f7b7ba19a4021905da6255ebf3d3f",
+    "rowtemplate": null,
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sa838df9eeab4d56a20b792467f798e0",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyLabel0f381d5fc79bf4f": "CopyLabel0f381d5fc79bf4f",
+        "CopyLabel0f4c1eeb3134941": "CopyLabel0f4c1eeb3134941",
+        "CopyLabel0fcf7d642b5064c": "CopyLabel0fcf7d642b5064c",
+        "Label0i0096f3d3a9b46": "Label0i0096f3d3a9b46",
+        "flxApprover": "flxApprover",
+        "flxDelete": "flxDelete",
+        "flxEdit": "flxEdit",
+        "imgDelete": "imgDelete",
+        "imgEdit": "imgEdit"
+    },
+    "zindex": 1
+}

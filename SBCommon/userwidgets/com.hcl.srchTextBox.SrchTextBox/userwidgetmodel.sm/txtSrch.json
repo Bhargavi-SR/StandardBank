@@ -1,0 +1,67 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Placeholder",
+    "_skin_": "s6294b281a48418cbeaf5ef4ce6475a6",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "placeholderSkin": "s6294b281a48418cbeaf5ef4ce6475a6"
+    },
+    "disabledSkins": {
+        "blockedUISkin": "s4265d3422894a7ab34eefc4bd0af188",
+        "focusSkin": "sa7ed060dbc74c75a5f7d403180179c0"
+    },
+    "focusskin": null,
+    "id": "txtSrch",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "a94bc69ab87742da88fc14ac5d4a1294",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "SrchTextBox",
+    "pf": "userwidgetmodel",
+    "placeholderskin": "s6294b281a48418cbeaf5ef4ce6475a6",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

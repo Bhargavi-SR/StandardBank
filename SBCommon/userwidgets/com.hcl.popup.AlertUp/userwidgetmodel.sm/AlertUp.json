@@ -1,0 +1,73 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf457513fbdd48dab0d251bee11aaa36",
+    "_width_": {
+        "type": "string",
+        "value": "400dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "children": [
+        "imgAlert",
+        "lblAlertHdr",
+        "lblAlertMessg",
+        "lblAlertMsg2",
+        "flxBtnsExist",
+        "flxRequestHistory"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "disabledSkins": {
+        "blockedUISkin": "se10403881e545c88517e38d1704fe6e",
+        "focusSkin": "s055b30cc8544a4092521d1a3c930a38"
+    },
+    "enablescrolling": true,
+    "focusskin": null,
+    "id": "AlertUp",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "id44c0bcecc54708943c52c825171315",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "userwidgetmodel",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

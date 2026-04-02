@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s731e43b398f4ad4818ee8cb436aee03",
+    "_src_": "icon_dropdwn.png",
+    "_top_": {
+        "type": "string",
+        "value": "4dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "imgDropDwn",
+    "imagescalemode": 0,
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j9c77a5c0084491691844e7b4d938125",
+    "name": "kony.ui.Image2",
+    "parent": "flxDropDwnList",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

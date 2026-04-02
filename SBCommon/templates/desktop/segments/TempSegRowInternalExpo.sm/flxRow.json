@@ -1,0 +1,84 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf51dc37fd0a40178320b8330b005a98",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblAcctType",
+        "lblAccNo",
+        "lblBRI",
+        "lblOutstandingBal",
+        "lblInstalment",
+        "lblArrearsExcess",
+        "lblAmountDue",
+        "lblOrgLoanAmt",
+        "lblOrgLimit",
+        "lblCurrentLimit",
+        "lblInterestRate",
+        "lblOriginationDate",
+        "lblOriginalTerm",
+        "lblRemTerm"
+    ],
+    "clipbounds": false,
+    "containerId": true,
+    "containerweight": 100,
+    "controllerInfo": {
+        "default": {
+            "channel": "desktop",
+            "name": "flxRowController"
+        }
+    },
+    "disabledSkins": {
+        "blockedUISkin": "se10403881e545c88517e38d1704fe6e",
+        "focusSkin": "s055b30cc8544a4092521d1a3c930a38"
+    },
+    "enablescrolling": true,
+    "id": "flxRow",
+    "info": null,
+    "isTemplate": true,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j5045b8723de4ec88b9fd3020e9938c3",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "TempSegRowInternalExpo",
+    "pf": "TempSegRowInternalExpo",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

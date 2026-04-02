@@ -1,0 +1,78 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        16,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "s6defbbed6b146e68c052b08880525e8",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "98%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "s5dc3436a96f4ed7a43380a007b5c692",
+    "groupcells": false,
+    "id": "listData",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "f7c764ae02b6452f874d53ffabf3d5c9",
+    "masterdata": [
+        [
+            "lb1",
+            "Placeholder One"
+        ],
+        [
+            "lb2",
+            "Placeholder Two"
+        ],
+        [
+            "lb3",
+            "Placeholder Three"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": true,
+    "parent": "flxList",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": null,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

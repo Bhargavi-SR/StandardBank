@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "s9ad6e320360464099ce9d666399bec4",
+    "_top_": {
+        "type": "string",
+        "value": "51dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "segDropDown"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "disabledSkins": {
+        "blockedUISkin": "se10403881e545c88517e38d1704fe6e"
+    },
+    "enablescrolling": true,
+    "focusskin": "s055b30cc8544a4092521d1a3c930a38",
+    "id": "flxSegDropDown",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": false,
+    "kuid": "a566525803ef471db80c6bc8f1bbd2af",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxDropDown",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 4
+}

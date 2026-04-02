@@ -1,0 +1,183 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "10",
+    "desktop": {
+        "_data_": [
+            [
+                {
+                    "lblMenuItem": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Suspend List",
+                        "type": "Label"
+                    },
+                    "lblSectionTitle": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    }
+                },
+                [
+                    {
+                        "lblMenuItem": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Master Suspend List",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "lblMenuItem": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Request List",
+                            "type": "Label"
+                        }
+                    },
+                    {
+                        "lblMenuItem": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Approve List",
+                            "type": "Label"
+                        }
+                    }
+                ]
+            ],
+            [
+                {
+                    "lblMenuItem": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Customer 360",
+                        "type": "Label"
+                    },
+                    "lblSectionTitle": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "Label"
+                    }
+                },
+                [
+                    {
+                        "lblMenuItem": {
+                            "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                            "text": "Customer Data",
+                            "type": "Label"
+                        }
+                    }
+                ]
+            ]
+        ],
+        "rowTemplateId": "ee0ee43775414ede9c37dfe177fe2aae",
+        "rowtemplate": "flxRowItems",
+        "sectionHeaderTemplateId": "ecb86e7c332d4db09a39c1e177bac515",
+        "sectionheadertemplate": "flxSegSecHdr",
+        "widgetdatamap": {
+            "flxLine": "flxLine",
+            "flxRowItems": "flxRowItems",
+            "flxSegSecHdr": "flxSegSecHdr",
+            "lblMenuItem": "lblMenuItem",
+            "lblSectionTitle": "lblSectionTitle"
+        }
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segMenu",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "faf670b7e6a4404b9408a27d5d7c3029",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxSegMenu",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowcounter": 0,
+    "rowfocusskin": "s89d578329194107941192e82b116fac",
+    "rowskin": "sbae7b20b1894e0aaca9ae6fa9c1fa39",
+    "rowtemplate": null,
+    "screenlevelwidget": false,
+    "seccounter": 1,
+    "sectionheaderskin": "sa838df9eeab4d56a20b792467f798e0",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxRowItems": "flxRowItems",
+        "flxSegSecHdr": "flxSegSecHdr",
+        "lblMenuItem": "lblMenuItem"
+    },
+    "zindex": 1
+}
